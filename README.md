@@ -1,5 +1,6 @@
 # alarma-pir-ir
 proyecto arduino de alarma con sensores pir + ir, reproductor mp3 y control de reles.
+se incluyen archivos para fritzing con el esquema de cableado.
 
 incluye reproductor mp3 con mensajes que se activan con la alarma en varias etapas.
 
