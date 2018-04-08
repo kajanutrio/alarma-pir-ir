@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.373583in" height="0.0754167in" xml:space="preserve" x="0px" viewBox="0 0 26.898 5.43" y="0px" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace"  id="Layer_1" baseProfile="tiny" version="1.2">
+    <desc>
+        <referenceFile>hc-sr04_ultrafix_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="copper0">
+        <g gorn="0.0.0"  id="copper1">
+            <circle gorn="0.0.0.0"  id="connector4" fill="none" cx="2.649" stroke-width="1.152" cy="2.714" stroke="#FFBF00" r="1.98"/>
+            <circle gorn="0.0.0.1"  id="connector5" fill="none" cx="9.85" stroke-width="1.152" cy="2.714" stroke="#FFBF00" r="1.98"/>
+            <circle gorn="0.0.0.2"  id="connector6" fill="none" cx="17.051" stroke-width="1.152" cy="2.714" stroke="#FFBF00" r="1.979"/>
+            <circle gorn="0.0.0.3"  id="connector7" fill="none" cx="24.25" stroke-width="1.152" cy="2.714" stroke="#FFBF00" r="1.979"/>
+        </g>
+    </g>
+</svg>

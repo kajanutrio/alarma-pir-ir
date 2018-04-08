@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Multiplex_74HC4051_aa8f875ff4989a848a6ad514d88cc493_5" modelIndex="5820" path="C:/Users/yomismo/Documents/Fritzing/parts/user/Multiplex_74HC4051_aa8f875ff4989a848a6ad514d88cc493_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_382e40f4e4e8cc6acdfd450b18354b1a_1" modelIndex="85420491" path="C:/Users/yomismo/Documents/Fritzing/parts/user/prefix0000_382e40f4e4e8cc6acdfd450b18354b1a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_e5c62da9c41a5c2a21331aaa57dc8b3f_1" modelIndex="85420499" path="C:/Users/yomismo/Documents/Fritzing/parts/user/prefix0000_e5c62da9c41a5c2a21331aaa57dc8b3f_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

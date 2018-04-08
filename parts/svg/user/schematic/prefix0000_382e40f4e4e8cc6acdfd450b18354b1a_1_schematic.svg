@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1.2in" height="1in" xml:space="preserve" x="0px" viewBox="0 0 86.4 72" y="0px" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace"  id="Layer_1" baseProfile="tiny" version="1.2">
+    <desc>
+        <referenceFile>hc-sr04_ultrafix_schematic.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="schematic">
+        <rect stroke-linecap="round" width="56.697" height="42.3" x="14.85" y="14.85"  fill="#FFFFFF" stroke="#000000"/>
+        <line stroke-linecap="round" gorn="0.0.1"  id="connector10" y1="28.8" fill="none" y2="28.8" stroke-width="0.75" x1="71.65" stroke="#787878" x2="86.05"/>
+        <g transform="matrix(1 0 0 1 62.9226 29.5)" >
+            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">echo</text>
+        </g>
+        <rect width="0.7" height="0.7" x="86.05" y="28.45" gorn="0.0.3"  id="connector10terminal" fill="none"/>
+        <line stroke-linecap="round" gorn="0.0.4"  id="connector0" y1="28.8" fill="none" y2="28.8" stroke-width="0.75" x1="0.35" stroke="#787878" x2="14.75"/>
+        <rect width="1.883" height="1.05" x="-0.35" y="28.45" gorn="0.0.5"  id="connector0terminal" fill="none"/>
+        <g transform="matrix(1 0 0 1 16.1492 29.5)" >
+            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">trig</text>
+        </g>
+        <rect width="0.7" height="0.7" x="-0.35" y="28.45" gorn="0.0.7"  id="connector9terminal" fill="none"/>
+        <line stroke-linecap="round" gorn="0.0.8"  id="connector11" y1="57.25" fill="none" y2="71.65" stroke-width="0.75" x1="43.2" stroke="#787878" x2="43.2"/>
+        <g transform="translate(15.4869,19.7026)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <g transform="matrix(1 0 0 1 -36.147 28.4123)" >
+                            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">GND</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="0.697" height="0.699" x="42.85" y="71.65" gorn="0.0.10"  id="connector12terminal" fill="none"/>
+        <line stroke-linecap="round" gorn="0.0.11"  id="connector8" y1="0.35" fill="none" y2="14.75" stroke-width="0.75" x1="43.2" stroke="#787878" x2="43.2"/>
+        <g transform="translate(15.4869,5.69736)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <g transform="matrix(1 0 0 1 -16.5214 28.4123)" >
+                            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">V</text>
+                        </g>
+                        <g transform="matrix(1 0 0 1 -14.6034 28.4123)" >
+                            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">C</text>
+                        </g>
+                        <g transform="matrix(1 0 0 1 -12.5624 28.4123)" >
+                            <text  fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">C</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="0.697" height="0.7" x="42.85" y="-0.35" gorn="0.0.13"  id="connector13terminal" fill="none"/>
+        <g transform="matrix(1 0 0 1 35.9187 34)" >
+            <text  font-family="'DroidSans'" font-size="4.25">hc-sr04</text>
+        </g>
+    </g>
+</svg>
